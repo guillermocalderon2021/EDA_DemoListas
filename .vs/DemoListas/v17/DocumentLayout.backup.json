@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pavil\\source\\repos\\DemoListas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C2A6E3-700A-47A3-BDE3-6C5401D5B077}|DemoListas\\DemoListas.csproj|c:\\users\\pavil\\source\\repos\\demolistas\\demolistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C2A6E3-700A-47A3-BDE3-6C5401D5B077}|DemoListas\\DemoListas.csproj|solutionrelative:demolistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C2A6E3-700A-47A3-BDE3-6C5401D5B077}|DemoListas\\DemoListas.csproj|c:\\users\\pavil\\source\\repos\\demolistas\\demolistas\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C2A6E3-700A-47A3-BDE3-6C5401D5B077}|DemoListas\\DemoListas.csproj|solutionrelative:demolistas\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C2A6E3-700A-47A3-BDE3-6C5401D5B077}|DemoListas\\DemoListas.csproj|c:\\users\\pavil\\source\\repos\\demolistas\\demolistas\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C2A6E3-700A-47A3-BDE3-6C5401D5B077}|DemoListas\\DemoListas.csproj|solutionrelative:demolistas\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\pavil\\source\\repos\\DemoListas\\DemoListas\\LinkedList.cs",
+              "RelativeDocumentMoniker": "DemoListas\\LinkedList.cs",
+              "ToolTip": "C:\\Users\\pavil\\source\\repos\\DemoListas\\DemoListas\\LinkedList.cs",
+              "RelativeToolTip": "DemoListas\\LinkedList.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwEwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:24:52.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\pavil\\source\\repos\\DemoListas\\DemoListas\\Node.cs",
+              "RelativeDocumentMoniker": "DemoListas\\Node.cs",
+              "ToolTip": "C:\\Users\\pavil\\source\\repos\\DemoListas\\DemoListas\\Node.cs",
+              "RelativeToolTip": "DemoListas\\Node.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwBIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:13:07.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pavil\\source\\repos\\DemoListas\\DemoListas\\Program.cs",
+              "RelativeDocumentMoniker": "DemoListas\\Program.cs",
+              "ToolTip": "C:\\Users\\pavil\\source\\repos\\DemoListas\\DemoListas\\Program.cs",
+              "RelativeToolTip": "DemoListas\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:08:53.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\pavil\source\repos\DemoListas\DemoListas\bin\Debug\DemoListas.exe.config
+C:\Users\pavil\source\repos\DemoListas\DemoListas\bin\Debug\DemoListas.exe
+C:\Users\pavil\source\repos\DemoListas\DemoListas\bin\Debug\DemoListas.pdb
+C:\Users\pavil\source\repos\DemoListas\DemoListas\obj\Debug\DemoListas.csproj.AssemblyReference.cache
+C:\Users\pavil\source\repos\DemoListas\DemoListas\obj\Debug\DemoListas.csproj.CoreCompileInputs.cache
+C:\Users\pavil\source\repos\DemoListas\DemoListas\obj\Debug\DemoListas.exe
+C:\Users\pavil\source\repos\DemoListas\DemoListas\obj\Debug\DemoListas.pdb
